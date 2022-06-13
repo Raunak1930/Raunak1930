@@ -9,8 +9,7 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/raunak-kumar-b5459b207/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="animesh" height="30" width="40" /></a>  
-
+<a href="https://www.linkedin.com/in/raunak-kumar-b5459b207/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="Raunak" height="30" width="40" /></a>  
  <a href = "imriskyraunak1951@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
