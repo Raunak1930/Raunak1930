@@ -32,7 +32,7 @@
 
 <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<i><b> About me ....</b></i></p>
 
-✔ 🔭 I’m currently working on ***Corona Tracker*** 😊 <br>
+✔ 🔭 I’m currently working on ***CP and DSA*** 😊 <br>
 ✔ 🌱 I’m currently learning ***React and MongoDB*** 😎 <br>
 ✔ 👯 I’m looking to collaborate with anyone for ***team projects*** 😉 <br>
 ✔ 💬 Ask me about ***Web Development*** 😍<br>
